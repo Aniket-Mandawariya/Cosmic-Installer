@@ -5,7 +5,7 @@ Static download website for Cosmic AI Assistant.
 Open `index.html` in a browser to preview it. The download buttons point to the GitHub Release asset:
 
 ```text
-https://github.com/Aniket-Mandawariya/Cosmic-Installer/releases/download/v1.0.0/Cosmic_Setup.exe
+https://github.com/Aniket-Mandawariya/Cosmic-Installer/releases/download/v1.0.0/Cosmic_Setup_v1.0.0_RC1.exe
 ```
 
 ## Current Website Copy
@@ -33,7 +33,7 @@ Upload this folder to Render or your static hosting provider.
 Upload the built installer to the `v1.0.0` GitHub Release as:
 
 ```text
-Cosmic_Setup.exe
+Cosmic_Setup_v1.0.0_RC1.exe
 ```
 
 Do not upload the full Python project. The installer already bundles the built desktop app from `dist/Cosmic`.
